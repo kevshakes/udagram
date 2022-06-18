@@ -2,6 +2,7 @@
 
 Endpoint URL elastic beanstalk deployment (EB_URL): http://udagram-image-filter-dev-dev.us-east-1.elasticbeanstalk.com/
 
+Example of EB_URL with Valid GET Request: http://udagram-image-filter-dev-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
 
 
 
